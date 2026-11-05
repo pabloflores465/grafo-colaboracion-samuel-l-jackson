@@ -1,0 +1,32 @@
+{
+ "cast": [
+  {
+   "adult": false,
+   "backdrop_path": "/kOpaLjBnfpRqgo4vE9ViIZINt5J.jpg",
+   "genre_ids": [
+    18,
+    9648,
+    53,
+    10402,
+    10749
+   ],
+   "id": 14283,
+   "title": "The Red Violin",
+   "original_language": "fr",
+   "original_title": "Le violon rouge",
+   "overview": "300 years of a remarkable musical instrument. Crafted by the Italian master Bussotti (Cecchi) in 1681, the red violin has traveled through Austria, England, China, and Canada, leaving both beauty and tragedy in its wake. In Montreal, Samuel L Jackson plays an appraiser going over its complex history.",
+   "popularity": 2.9631,
+   "poster_path": "/uPjq8PaNDhFQTzOu4Ce91f6BFgZ.jpg",
+   "release_date": "1998-11-13",
+   "softcore": false,
+   "video": false,
+   "vote_average": 7.342,
+   "vote_count": 466,
+   "character": "Apprentice (Cremona)",
+   "credit_id": "52fe45e19251416c75065b5b",
+   "order": 4
+  }
+ ],
+ "crew": [],
+ "id": 141717
+}

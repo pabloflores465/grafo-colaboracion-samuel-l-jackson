@@ -1,0 +1,167 @@
+{
+ "cast": [
+  {
+   "adult": false,
+   "backdrop_path": "/zAP5PZVtSIOZwweMaHmNKHJ3xTF.jpg",
+   "genre_ids": [
+    35
+   ],
+   "id": 17159,
+   "title": "Eddie Murphy Raw",
+   "original_language": "en",
+   "original_title": "Eddie Murphy Raw",
+   "overview": "Eddie Murphy delights, shocks and entertains with dead-on celebrity impersonations, observations on '80s love, sex and marriage, a remembrance of Mom's hamburgers and much more.",
+   "popularity": 1.7266,
+   "poster_path": "/irVU3PHIdg36Rh8tSKnKCdmHLEO.jpg",
+   "release_date": "1987-11-25",
+   "softcore": false,
+   "video": false,
+   "vote_average": 7.247,
+   "vote_count": 393,
+   "character": "Eddie's Aunt",
+   "credit_id": "52fe470a9251416c7508bf6d",
+   "order": 2
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/6tAH0LR2DJUlfznqlEkoSAjQVHi.jpg",
+   "genre_ids": [
+    35,
+    18
+   ],
+   "id": 273896,
+   "title": "Losing Ground",
+   "original_language": "en",
+   "original_title": "Losing Ground",
+   "overview": "Sara, a cold college professor, and her husband, an ecstatic painter, spend a summer away from the city, straining their rocky relationship.",
+   "popularity": 0.6949,
+   "poster_path": "/gyB3mBFVRru6bE2yqXDYHIB7c5e.jpg",
+   "release_date": "1982-06-02",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.2,
+   "vote_count": 23,
+   "character": "Mother",
+   "credit_id": "538f465c0e0a26297f000205",
+   "order": 4
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/onHcpaQGcHBszFl0IpJjNHV2Wtk.jpg",
+   "genre_ids": [
+    18,
+    10770
+   ],
+   "id": 1026962,
+   "title": "The Prosecutors",
+   "original_language": "en",
+   "original_title": "The Prosecutors",
+   "overview": "Drama (and prospective pilot) about the lives of three women who work in the New York City DA's office: one a brilliant prosecutor of high-profile cases whose husband is shot and killed in an armed robbery; a second, her tough, bitter, chain-smoking, boozing, wheelchair-bound former mentor; a third, a Latina who is an ambitious legal intern.",
+   "popularity": 0.64,
+   "poster_path": "/o3xRhDGdwiczQealB9F06NvrKm5.jpg",
+   "release_date": "1996-12-02",
+   "softcore": false,
+   "video": false,
+   "vote_average": 8.0,
+   "vote_count": 1,
+   "character": "Evelyn",
+   "credit_id": "632b4f13ecbde900923832a2",
+   "order": 11
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/2u0VxcEoI9RqnV7yugE5Dihlkc6.jpg",
+   "genre_ids": [
+    18,
+    9648,
+    53,
+    35
+   ],
+   "id": 42178,
+   "title": "Winter Kills",
+   "original_language": "en",
+   "original_title": "Winter Kills",
+   "overview": "The younger brother of an assassinated US President is led down a rabbit hole of conspiracies and dead ends after learning of a man claiming to be the real shooter.",
+   "popularity": 1.5481,
+   "poster_path": "/qDGAY2FCuRX82VOfi0Lr47SCnTl.jpg",
+   "release_date": "1979-05-11",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.7,
+   "vote_count": 71,
+   "character": "Receptionist",
+   "credit_id": "6354573d43cd54007f76fff9",
+   "order": 47
+  },
+  {
+   "adult": false,
+   "backdrop_path": null,
+   "genre_ids": [
+    18
+   ],
+   "id": 56133,
+   "title": "Black Like Me",
+   "original_language": "en",
+   "original_title": "Black Like Me",
+   "overview": "Black Like Me is the true account of journalist and author John Griffin's experiences when he passed as a black man.",
+   "popularity": 1.3621,
+   "poster_path": "/xl1rm97rQZNb3IfQelr3EWeCWp5.jpg",
+   "release_date": "1964-05-20",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.2,
+   "vote_count": 12,
+   "character": "Vertell",
+   "credit_id": "5b49042fc3a36823db00124e",
+   "order": 15
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/mgqDdfjRNiz0FL6lIt3axArhWmH.jpg",
+   "genre_ids": [
+    18
+   ],
+   "id": 283858,
+   "title": "Souls of Sin",
+   "original_language": "en",
+   "original_title": "Souls of Sin",
+   "overview": "Unsuccessful gambler 'Dollar Bill' Burton lives in a crummy New York basement room with old friend Bob and a new roommate, friendly blues singer 'Alabama' Lee. But, tired of being broke, Dollar Bill gets more steady employment...doing illegal errands for gangster Bad Boy George. The now prosperous Bill ignores pretty, adoring Etta and takes up with sultry singer Regina. Will Bill's way of life catch up with him? Will his upright friends be more successful in the end?",
+   "popularity": 0.3999,
+   "poster_path": "/fC0z8ni8xbgWcooS0bijBR6YT8O.jpg",
+   "release_date": "1949-12-25",
+   "softcore": false,
+   "video": false,
+   "vote_average": 7.0,
+   "vote_count": 3,
+   "character": "Etta Mason",
+   "credit_id": "5ee02f05dbf144001e907bb9",
+   "order": 2
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/4CILG3fepXV2niGGp8XIJHDDOHZ.jpg",
+   "genre_ids": [
+    14,
+    10751,
+    12
+   ],
+   "id": 24961,
+   "title": "The Wiz",
+   "original_language": "en",
+   "original_title": "The Wiz",
+   "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.",
+   "popularity": 2.9719,
+   "poster_path": "/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+   "release_date": "1978-10-24",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.2,
+   "vote_count": 337,
+   "character": "Aunt Em's Party",
+   "credit_id": "6804c52303344aee7089c988",
+   "order": 45
+  }
+ ],
+ "crew": [],
+ "id": 171029
+}

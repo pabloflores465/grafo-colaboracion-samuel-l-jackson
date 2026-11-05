@@ -1,0 +1,193 @@
+{
+ "cast": [
+  {
+   "adult": false,
+   "backdrop_path": "/q9EkbdWY4xYRunDCuWJ48KbASJL.jpg",
+   "genre_ids": [
+    10402,
+    99
+   ],
+   "id": 1216282,
+   "title": "A GRAMMY Salute to 50 Years of Hip-Hop",
+   "original_language": "en",
+   "original_title": "A GRAMMY Salute to 50 Years of Hip-Hop",
+   "overview": "A once-in-a-lifetime live concert special celebrating the 50th anniversary of hip-hop, the two-hour tribute special features exclusive performances from hip-hop legends and GRAMMY-winning artists, including Black Thought, Bun B, Common, De La Soul, Jermaine Dupri, J.J. Fad, Talib Kweli, The Lady of Rage, LL COOL J, MC Sha-Rock, Monie Love, The Pharcyde, Queen Latifah, Questlove, Rakim, Remy Ma, Uncle Luke, and Yo-Yo.",
+   "popularity": 1.1881,
+   "poster_path": "/6RCzfiknWEqw2PkpZBtei4OZ7si.jpg",
+   "release_date": "2023-12-10",
+   "softcore": false,
+   "video": false,
+   "vote_average": 9.0,
+   "vote_count": 3,
+   "character": "Self",
+   "credit_id": "65cca439ed2ac20186af2d28",
+   "order": 40
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/fsSmc2g8ZR1R3caBhe2CNkyjxNI.jpg",
+   "genre_ids": [
+    10402,
+    99
+   ],
+   "id": 1306624,
+   "title": "The Pop Out: Ken & Friends",
+   "original_language": "en",
+   "original_title": "The Pop Out: Ken & Friends",
+   "overview": "Kendrick Lamar, DJ Mustard and various other artists perform in a concert at the LA Forum celebrating Juneteenth and West Coast hip hop.",
+   "popularity": 1.3686,
+   "poster_path": "/2aVRJv0JRWAQMPKlen7DxHZ5h2r.jpg",
+   "release_date": "2024-06-19",
+   "softcore": false,
+   "video": true,
+   "vote_average": 8.5,
+   "vote_count": 6,
+   "character": "Self",
+   "credit_id": "66730415e63b47357890e55e",
+   "order": 5
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/eA4S3tlpYfEA7LTo3GOwYWzUG4z.jpg",
+   "genre_ids": [
+    10751,
+    35,
+    12,
+    16
+   ],
+   "id": 1084153,
+   "title": "Sneaks",
+   "original_language": "en",
+   "original_title": "Sneaks",
+   "overview": "When his sister is stolen by a shady collector, a pampered, custom sneaker must leave his velvet-lined box and navigate the streets of New York City with a ragtag group of streetwise footwear to bring her home.",
+   "popularity": 2.9269,
+   "poster_path": "/3SipvmtH9VOyLmII9JLs34qFfil.jpg",
+   "release_date": "2025-04-17",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.8,
+   "vote_count": 39,
+   "character": "Mustard / Marcel (voice)",
+   "credit_id": "66ba7f5e4ab44202f0b765b6",
+   "order": 7
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/1bb5miwjB1wCBsLF7EDGnHrJHuq.jpg",
+   "genre_ids": [
+    10402
+   ],
+   "id": 477582,
+   "title": "Double Dutchess: Seeing Double",
+   "original_language": "en",
+   "original_title": "Double Dutchess: Seeing Double",
+   "overview": "A high-art, high-fashion showcase of a star's many personas-and a vivid reminder that our art, not our obstacles, ultimately defines us. Free, focused, and fucking shit up again, it shows every side of Fergie-the superstar, the visual artist, the creative director, the label head, the fashion icon, the wife, and, she'll tell you most importantly, \"mom.\"",
+   "popularity": 1.1098,
+   "poster_path": "/7ElPSG4WMPISlKRaBXi9XB1Mb9r.jpg",
+   "release_date": "2017-09-20",
+   "softcore": false,
+   "video": true,
+   "vote_average": 6.2,
+   "vote_count": 10,
+   "character": "",
+   "credit_id": "59f61b61c3a3682e4c01978d",
+   "order": 20
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/oPcHAiz6q1eNXTbrYR6emtsyuDC.jpg",
+   "genre_ids": [
+    10402,
+    99
+   ],
+   "id": 747876,
+   "title": "Savage X Fenty Show Vol. 2",
+   "original_language": "en",
+   "original_title": "Savage X Fenty Show Vol. 2",
+   "overview": "Rihanna invites you to a high energy and visually stunning experience where you can watch and shop her latest lingerie line. Hear from Rihanna, those closest to her, and go behind-the-scenes of the Savage X Fenty brand as you sit front row to see top artists and models featuring Travis Scott, Rosalia, Bad Bunny, Lizzo, Cara Delevingne, Miguel, Bella Hadid, Normani, Willow Smith and many more.",
+   "popularity": 1.2062,
+   "poster_path": "/5HQPTiYFUhy2TTcc8pzoR16dXtq.jpg",
+   "release_date": "2020-10-01",
+   "softcore": false,
+   "video": false,
+   "vote_average": 7.5,
+   "vote_count": 43,
+   "character": "Self - Performer",
+   "credit_id": "5f7788efdd471600351a86ce",
+   "order": 17
+  },
+  {
+   "adult": false,
+   "backdrop_path": null,
+   "genre_ids": [
+    10402,
+    99
+   ],
+   "id": 1430143,
+   "title": "The Game: The Documentary 2",
+   "original_language": "en",
+   "original_title": "The Game: The Documentary 2",
+   "overview": "10 years after releasing his debut album The Documentary, Compton rapper, The Game, recently released a double album in two separate installments. The first disk was titled The Documentary 2 and the second which dropped a week later was called The Documentary 2.5. This 50 minute film is the official making of and we get just that, giving fans a behind-the-scenes look at the recording sessions that went into his latest body of work.",
+   "popularity": 0.9405,
+   "poster_path": null,
+   "release_date": "2015-11-01",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "Self",
+   "credit_id": "67a4fadadf336f38ab85c9e3",
+   "order": 23
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/mDszhLfZmCIPoxTlbRlkXK3jeHC.jpg",
+   "genre_ids": [
+    10402
+   ],
+   "id": 1661819,
+   "title": "Kendrick Lamar's Super Bowl LIX Halftime Show",
+   "original_language": "en",
+   "original_title": "Kendrick Lamar's Super Bowl LIX Halftime Show",
+   "overview": "Relive Kendrick's Super Bowl LIX Halftime Show.",
+   "popularity": 1.041,
+   "poster_path": "/3lcRJXQ1PQ8uV9gOhPPqvqWcU5O.jpg",
+   "release_date": "2025-02-09",
+   "softcore": false,
+   "video": false,
+   "vote_average": 3.3,
+   "vote_count": 3,
+   "character": "Self - Guest",
+   "credit_id": "69cd1e41715b22e97b6c2fc0",
+   "order": 2
+  }
+ ],
+ "crew": [
+  {
+   "adult": false,
+   "backdrop_path": "/eA4S3tlpYfEA7LTo3GOwYWzUG4z.jpg",
+   "genre_ids": [
+    10751,
+    35,
+    12,
+    16
+   ],
+   "id": 1084153,
+   "title": "Sneaks",
+   "original_language": "en",
+   "original_title": "Sneaks",
+   "overview": "When his sister is stolen by a shady collector, a pampered, custom sneaker must leave his velvet-lined box and navigate the streets of New York City with a ragtag group of streetwise footwear to bring her home.",
+   "popularity": 2.9269,
+   "poster_path": "/3SipvmtH9VOyLmII9JLs34qFfil.jpg",
+   "release_date": "2025-04-17",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.8,
+   "vote_count": 39,
+   "credit_id": "63e3e2667304b5008461b1e6",
+   "department": "Sound",
+   "job": "Music Producer"
+  }
+ ],
+ "id": 1913982
+}

@@ -1,0 +1,62 @@
+{
+ "id": 1644970,
+ "cast": [
+  {
+   "adult": false,
+   "gender": 2,
+   "id": 2231,
+   "known_for_department": "Acting",
+   "name": "Samuel L. Jackson",
+   "original_name": "Samuel L. Jackson",
+   "popularity": 6.8675,
+   "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg",
+   "cast_id": 1,
+   "character": "",
+   "credit_id": "69a53d0e64e4206454de9613",
+   "order": 0
+  },
+  {
+   "adult": false,
+   "gender": 1,
+   "id": 11024,
+   "known_for_department": "Acting",
+   "name": "Kelly Hu",
+   "original_name": "Kelly Hu",
+   "popularity": 3.3252,
+   "profile_path": "/jLhnDPiUIrIcdKJYnnVSZ4nbgyh.jpg",
+   "cast_id": 2,
+   "character": "",
+   "credit_id": "69a53d40d4c72c3b85c4bbfa",
+   "order": 1
+  },
+  {
+   "adult": false,
+   "gender": 2,
+   "id": 2372,
+   "known_for_department": "Acting",
+   "name": "Ron Perlman",
+   "original_name": "Ron Perlman",
+   "popularity": 5.6294,
+   "profile_path": "/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg",
+   "cast_id": 3,
+   "character": "",
+   "credit_id": "69a53d45c81ede1eb6a7a269",
+   "order": 2
+  }
+ ],
+ "crew": [
+  {
+   "adult": false,
+   "gender": 2,
+   "id": 77177,
+   "known_for_department": "Directing",
+   "name": "Fuminori Kizaki",
+   "original_name": "木崎文智",
+   "popularity": 0.5418,
+   "profile_path": "/qihRzcgFJLdL16AHqoyEHNSsGez.jpg",
+   "credit_id": "69a53d5517ee9db8c8187e48",
+   "department": "Directing",
+   "job": "Director"
+  }
+ ]
+}

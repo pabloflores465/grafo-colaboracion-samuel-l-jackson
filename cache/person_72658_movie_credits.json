@@ -1,0 +1,168 @@
+{
+ "cast": [
+  {
+   "adult": false,
+   "backdrop_path": "/rPaOAtK6OpnHQ9r61WPM4WWNxaH.jpg",
+   "genre_ids": [
+    878,
+    12,
+    9648
+   ],
+   "id": 152,
+   "title": "Star Trek: The Motion Picture",
+   "original_language": "en",
+   "original_title": "Star Trek: The Motion Picture",
+   "overview": "When an unidentified alien destroys three powerful Klingon cruisers, Captain James T. Kirk returns to the newly transformed U.S.S. Enterprise to take command.",
+   "popularity": 7.9167,
+   "poster_path": "/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg",
+   "release_date": "1979-12-07",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.481,
+   "vote_count": 2042,
+   "character": "Crew Member",
+   "credit_id": "52fe421fc3a36847f8005aed",
+   "order": 29
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/1pXco8EiCGtYyBZuNSQIu6980lf.jpg",
+   "genre_ids": [
+    53,
+    28
+   ],
+   "id": 12528,
+   "title": "Southern Comfort",
+   "original_language": "en",
+   "original_title": "Southern Comfort",
+   "overview": "A squad of National Guards on an isolated weekend exercise in the Louisiana swamp must fight for their lives when they anger local Cajuns by stealing their canoes. Without live ammunition and in a strange country, their experience begins to mirror the Vietnam experience.",
+   "popularity": 2.387,
+   "poster_path": "/nBPOcxiqc0PsG7Hz58JxSUN5BF0.jpg",
+   "release_date": "1981-09-24",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.842,
+   "vote_count": 377,
+   "character": "Simms",
+   "credit_id": "52fe44f59251416c75046c15",
+   "order": 3
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/iUsvXEn5avXC1AXkQUu6CUxbUjw.jpg",
+   "genre_ids": [
+    80,
+    18
+   ],
+   "id": 33831,
+   "title": "The Onion Field",
+   "original_language": "en",
+   "original_title": "The Onion Field",
+   "overview": "An LA police officer is murdered in the onion fields outside of Bakersfield. However, legal loopholes could keep his kidnappers from receiving justice, and his partner is haunted by overwhelming survivor's guilt.",
+   "popularity": 1.4192,
+   "poster_path": "/9XQiG3wiaHnJnAU2uNz5OaTBgBy.jpg",
+   "release_date": "1979-09-09",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.0,
+   "vote_count": 124,
+   "character": "Jimmy Smith",
+   "credit_id": "52fe453d9251416c9102bc99",
+   "order": 2
+  },
+  {
+   "adult": false,
+   "backdrop_path": null,
+   "genre_ids": [
+    18,
+    10770
+   ],
+   "id": 485035,
+   "title": "King Lear",
+   "original_language": "en",
+   "original_title": "King Lear",
+   "overview": "James Earl Jones delivers a riveting performance as paranoid patriarch King Lear, an aging monarch who insists that his three daughters prove their love for him, only to learn he's exalted the two who seek to destroy him. This live performance recording of Joseph Papp's New York Shakespeare Festival production deftly envisions the bard's haunting tragedy with a fine supporting cast, including Raul Julia, Paul Sorvino and Rene Auberjonois.",
+   "popularity": 0.9889,
+   "poster_path": "/8MapbSAFvcG2533Cn305ZK0OtN9.jpg",
+   "release_date": "1974-02-20",
+   "softcore": false,
+   "video": false,
+   "vote_average": 9.0,
+   "vote_count": 1,
+   "character": "Servant to Cornwall",
+   "credit_id": "6557dc3f22931a011c964afe",
+   "order": 18
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/uiVltrYKRPT6A2kHnwvoyavqTmt.jpg",
+   "genre_ids": [
+    10749,
+    35,
+    18
+   ],
+   "id": 500586,
+   "title": "William Shakespeare's The Taming of the Shrew",
+   "original_language": "en",
+   "original_title": "William Shakespeare's The Taming of the Shrew",
+   "overview": "Lucentio loves Bianca but cannot court her until her shrewish older sister Katherina marries. The eccentric Petruccio marries the reluctant Katherina and uses a number of tactics to render her an obedient wife.",
+   "popularity": 0.9617,
+   "poster_path": "/rIdH9Tmvl6Y2mgS0eYdcpYKxEFg.jpg",
+   "release_date": "1983-02-06",
+   "softcore": false,
+   "video": false,
+   "vote_average": 3.8,
+   "vote_count": 4,
+   "character": "Petruchio",
+   "credit_id": "5a688e310e0a2653a800b520",
+   "order": 1
+  },
+  {
+   "adult": false,
+   "backdrop_path": null,
+   "genre_ids": [
+    18,
+    10770
+   ],
+   "id": 463815,
+   "title": "The Trial of the Moke",
+   "original_language": "en",
+   "original_title": "The Trial of the Moke",
+   "overview": "Henry Flipper is the first black West Point graduate. Assigned to serve at Fort Davis in Texas, Flipper becomes the object of a conspiracy by his fellow cadets to rid the base of its only black graduate.",
+   "popularity": 0.9588,
+   "poster_path": "/kDXwbfcUeGeH1kpyqbX8HgWPJmG.jpg",
+   "release_date": "1978-05-03",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.0,
+   "vote_count": 3,
+   "character": "Henry Flipper",
+   "credit_id": "5e1857c01ad93b00153ecd17",
+   "order": 0
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/x74bJaQMo0QV0gv7hJY8FFLt45h.jpg",
+   "genre_ids": [
+    18
+   ],
+   "id": 233752,
+   "title": "Macbeth",
+   "original_language": "en",
+   "original_title": "Macbeth",
+   "overview": "An adaptation of Shakespeare's play.",
+   "popularity": 0.9713,
+   "poster_path": "/yfjZ7Ds8WZ6xM1ue1UbctoKo2A6.jpg",
+   "release_date": "1981-01-01",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.4,
+   "vote_count": 5,
+   "character": "Lennox",
+   "credit_id": "5f7318e3223e2000377d58ce",
+   "order": 7
+  }
+ ],
+ "crew": [],
+ "id": 72658
+}

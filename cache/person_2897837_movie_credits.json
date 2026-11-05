@@ -1,0 +1,99 @@
+{
+ "cast": [
+  {
+   "adult": false,
+   "backdrop_path": "/aOaMvd3a5GUOZiHJRF5qgDttijp.jpg",
+   "genre_ids": [
+    10402,
+    10751,
+    35
+   ],
+   "id": 826953,
+   "title": "Better Nate Than Ever",
+   "original_language": "en",
+   "original_title": "Better Nate Than Ever",
+   "overview": "13-year-old Nate Foster has big Broadway dreams but there’s only one problem — he can’t even land a part in the school play. When his parents leave town, Nate and his best friend Libby sneak off to the Big Apple for a once-in-a-lifetime opportunity to prove everyone wrong. A chance encounter with Nate’s long-lost Aunt Heidi turns his journey upside-down, and together they must learn that life’s greatest adventures are only as big as your dreams.",
+   "popularity": 2.354,
+   "poster_path": "/gXyv8pAHhJGhTS1MkQf96VHUAVO.jpg",
+   "release_date": "2022-03-15",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.5,
+   "vote_count": 108,
+   "character": "Stage Daughter",
+   "credit_id": "6247f1800d29440062901dfb",
+   "order": 12
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/92PJmMopfy64VYjd0HvIQaHGZX0.jpg",
+   "genre_ids": [
+    16,
+    12,
+    35,
+    10751,
+    28
+   ],
+   "id": 366672,
+   "title": "Paws of Fury: The Legend of Hank",
+   "original_language": "en",
+   "original_title": "Paws of Fury: The Legend of Hank",
+   "overview": "A hard-on-his-luck hound finds himself in a town full of cats in need of a hero to defend them from a ruthless villain's wicked plot to wipe their village off the map. With help from a reluctant mentor, our underdog must assume the role of town samurai and team up with the villagers to save the day.",
+   "popularity": 5.4181,
+   "poster_path": "/wMDUDwAArpfGdtTTZ25SfwngGwt.jpg",
+   "release_date": "2022-07-14",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.594,
+   "vote_count": 346,
+   "character": "Emiko (voice)",
+   "credit_id": "625242c2a6c1042f1255cb82",
+   "order": 3
+  },
+  {
+   "adult": false,
+   "backdrop_path": null,
+   "genre_ids": [],
+   "id": 777126,
+   "title": "Meet Me In St. Louis: A Holiday Special in Song and On Screen",
+   "original_language": "en",
+   "original_title": "Meet Me In St. Louis: A Holiday Special in Song and On Screen",
+   "overview": "In this heartwarming holiday musical, the Smith family grapples with life changes and new love in a bustling St. Louis on the brink of the 1904 World’s Fair. This special digital adaption from Charlotte Moore (Anna Smith in the original Broadway cast) will include favorite tunes, including “The Trolley Song,” “The Boy Next Door,” and “Have Yourself a Merry Little Christmas,” along with the romantic suitors, comedic misunderstandings, and jovial pranks that make this classic musical a holiday treat for families of all ages, no matter where you’re celebrating this year. This new digital production, filmed and edited remotely amidst the COVID-19 pandemic, is an abridged version of the Broadway musical Meet Me in St. Louis (1989), based on the 1944 film of the same name starring Judy Garland. Irish Repertory Theatre last presented Meet Me in St. Louis in 2007.",
+   "popularity": 0.5895,
+   "poster_path": "/tQuF4LnaxeDv1xf7vZuT45fCvhr.jpg",
+   "release_date": "2020-12-11",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "Tootie",
+   "credit_id": "5fdb7c18109dec0040f21c86",
+   "order": 10
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/8qSsnSbgosaCROnvcOzeXyWsxIp.jpg",
+   "genre_ids": [
+    35,
+    10749
+   ],
+   "id": 1212142,
+   "title": "Kinda Pregnant",
+   "original_language": "en",
+   "original_title": "Kinda Pregnant",
+   "overview": "When Lainy's plan to settle down and start a family falls apart, she puts on a fake baby bump, tells a lie — and accidentally falls for her dream guy.",
+   "popularity": 3.2227,
+   "poster_path": "/k2Lq3rCJ7P9gk5Df9of9kqr9IJM.jpg",
+   "release_date": "2025-02-04",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.591,
+   "vote_count": 342,
+   "character": "Emily",
+   "credit_id": "67831eccb9094c7dfebaf4e6",
+   "order": 18
+  }
+ ],
+ "crew": [],
+ "id": 2897837
+}

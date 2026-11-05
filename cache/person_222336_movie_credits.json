@@ -1,0 +1,143 @@
+{
+ "cast": [
+  {
+   "adult": false,
+   "backdrop_path": "/tDJO8vWleN93767b845kYr58kww.jpg",
+   "genre_ids": [
+    16,
+    35,
+    878
+   ],
+   "id": 55423,
+   "title": "Mr. Incredible and Pals",
+   "original_language": "en",
+   "original_title": "Mr. Incredible and Pals",
+   "overview": "An animated short film produced by Pixar included as a bonus on the DVD edition of the 2004 feature film \"The Incredibles.\"",
+   "popularity": 1.22,
+   "poster_path": "/qxy5xsBKGIN4iNy6dFIsQlvDtvI.jpg",
+   "release_date": "2005-03-15",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.9,
+   "vote_count": 69,
+   "character": "Frozone (voice)",
+   "credit_id": "52fe48cbc3a36847f8179d7f",
+   "order": 3
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/kuwzIZZ5kgpqi6g0l8BBPFoKIna.jpg",
+   "genre_ids": [],
+   "id": 948189,
+   "title": "Chasing Rodriguez",
+   "original_language": "en",
+   "original_title": "Chasing Rodriguez",
+   "overview": "Four teenagers enter a short film contest to win a cash prize. While filming their movie they inadvertently capture a robbery on film.",
+   "popularity": 1.9982,
+   "poster_path": "/iNV93W4G88urTAGoromEhtuGnct.jpg",
+   "release_date": "2012-08-31",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "Jackson DeCristo",
+   "credit_id": "622af10e025764005ed7a598",
+   "order": 1
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/zcySy6dnSmyqiichtDgO7AEeZoq.jpg",
+   "genre_ids": [
+    28,
+    18,
+    53
+   ],
+   "id": 254128,
+   "title": "San Andreas",
+   "original_language": "en",
+   "original_title": "San Andreas",
+   "overview": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey across the state in order to rescue his estranged daughter.",
+   "popularity": 10.9117,
+   "poster_path": "/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
+   "release_date": "2015-05-27",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.261,
+   "vote_count": 9330,
+   "character": "Pedestrian #3",
+   "credit_id": "575d915ec3a3681351003075",
+   "order": 41
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/nLgWV32C9MsyK3BYHVgHDrX6fzH.jpg",
+   "genre_ids": [
+    35
+   ],
+   "id": 802801,
+   "title": "Free Byrd",
+   "original_language": "en",
+   "original_title": "Free Byrd",
+   "overview": "A middle-aged underachieving van driver, Jay (Randy Nazarian), is assigned to drive an irascible senior, Harry (Raymond J. Barry), to a new home. Along the way they have a series of misadventures, including being picked up by a troupe of burlesque dancers led by Red (Shondrella Avery) and performing an impromptu comedy act. An enlightening journey that gives both men new perspective on life.",
+   "popularity": 1.7004,
+   "poster_path": "/6JKZe9690Ie132AcFjWNa2m2qlD.jpg",
+   "release_date": "2021-04-01",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.7,
+   "vote_count": 6,
+   "character": "Retirement Home Manager",
+   "credit_id": "606722b01e92250041e5b8e9",
+   "order": 13
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/i8dyHahIY3jMaVkgItVAObaYFV7.jpg",
+   "genre_ids": [
+    18,
+    35
+   ],
+   "id": 73511,
+   "title": "The Californians",
+   "original_language": "en",
+   "original_title": "The Californians",
+   "overview": "When real estate mogul Gavin Ransom announces his plan to cover California's northern coast with scores of mini-mansions, his environmentalist sister, Olive, launches a protest to stop him. But there's trouble ahead when Gavin begins falling for the pretty folk singer who's helping Olive's cause.",
+   "popularity": 1.1133,
+   "poster_path": "/94w3CM4V8AG9OEgtPQSwDfFd6Vw.jpg",
+   "release_date": "2005-10-21",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.0,
+   "vote_count": 11,
+   "character": "Corporate Party Man",
+   "credit_id": "683431d90e931d3beeb6b69b",
+   "order": 29
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/njhvVl66zf0pTl5iqK0EwhDSmmN.jpg",
+   "genre_ids": [
+    16,
+    12,
+    10749
+   ],
+   "id": 1791383,
+   "title": "Fruit & Nut",
+   "original_language": "en",
+   "original_title": "Fruit & Nut",
+   "overview": "The untold story of the most famous duo of all time.",
+   "popularity": 1.1292,
+   "poster_path": "/aMQ75odDVyF1DgQoI56eyi6e409.jpg",
+   "release_date": "2026-10-02",
+   "softcore": false,
+   "video": false,
+   "vote_average": 7.0,
+   "vote_count": 2,
+   "character": "Grandpa",
+   "credit_id": "6ac708fc73b851067f3ee876",
+   "order": 0
+  }
+ ],
+ "crew": [],
+ "id": 222336
+}

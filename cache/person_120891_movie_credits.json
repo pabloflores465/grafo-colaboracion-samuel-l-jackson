@@ -1,0 +1,143 @@
+{
+ "cast": [
+  {
+   "adult": false,
+   "backdrop_path": "/p80dRTtTQE5U7FeDoJXanxFX2xO.jpg",
+   "genre_ids": [
+    18,
+    53
+   ],
+   "id": 38199,
+   "title": "Unthinkable",
+   "original_language": "en",
+   "original_title": "Unthinkable",
+   "overview": "The government gets wind of a plot to destroy America involving a trio of nuclear weapons for which the whereabouts are unknown. It's up to a seasoned interrogator and an FBI agent to find out exactly where the nukes are.",
+   "popularity": 5.1659,
+   "poster_path": "/6yQqguytl10FhImngDHV90Aqewa.jpg",
+   "release_date": "2010-05-26",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.8,
+   "vote_count": 1557,
+   "character": "Rina Humphries",
+   "credit_id": "52fe469e9251416c9105a2b3",
+   "order": 4
+  },
+  {
+   "adult": false,
+   "backdrop_path": null,
+   "genre_ids": [
+    18
+   ],
+   "id": 509372,
+   "title": "All That Remains",
+   "original_language": "en",
+   "original_title": "All That Remains",
+   "overview": "Two Bosnian brothers living in America make their way home for the first time since escaping the war in order to bury their father.",
+   "popularity": 0.5287,
+   "poster_path": "/y3GTE7ESbeuQOvi5uB0iEsx9UQk.jpg",
+   "release_date": "2015-01-01",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "Selma Hadžiselimović",
+   "credit_id": "5a9d6e4892514128af0434f4",
+   "order": 4
+  },
+  {
+   "adult": false,
+   "backdrop_path": null,
+   "genre_ids": [
+    28,
+    80,
+    18,
+    9648,
+    53
+   ],
+   "id": 323867,
+   "title": "Spy",
+   "original_language": "en",
+   "original_title": "Spy",
+   "overview": "SPYING TURNS TO SECURITY DETAIL AS A YOUNG COUPLE AVOIDS MURDER, THE MOB, AND THE PAST. Human cloning, surveillance, and a life threatening relationship take center stage in this romantic thriller. Re-Released in the fall of 2012, SPY tells the story of Dante LeClair (Vincent Pastore) who was forced by mob boss (Frank Vincent) to fund illegal and unethical medical experiments after his daughter Susan (Lora Kojovic) was injured.",
+   "popularity": 2.7138,
+   "poster_path": "/fxFjBP55X6ftgXfMSrhgLodWwjp.jpg",
+   "release_date": "2011-08-09",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.3,
+   "vote_count": 10,
+   "character": "Susan LeClair",
+   "credit_id": "5b860be80e0a261111005465",
+   "order": 2
+  },
+  {
+   "adult": false,
+   "backdrop_path": null,
+   "genre_ids": [
+    18
+   ],
+   "id": 309657,
+   "title": "Sex Drugs Guns",
+   "original_language": "en",
+   "original_title": "Sex Drugs Guns",
+   "overview": "In this trio of edgy tales, Eugene spends his energy and inheritance on trying out new ways of having sex; a young brother and sister pop prescription pills as if they were candy; and a grieving father torments a weapon manufacturer's family. This highly suspenseful and provocative set of stories from writer-director Adrian Selkowitz also features Jim Storm, Alec Clawson, Katie Kocis, Drew Watson and Kelly Costa.",
+   "popularity": 0.8215,
+   "poster_path": "/g2yOC5IgW9Y3FJi5gFI8yYkAxnt.jpg",
+   "release_date": "2009-01-01",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "Anka",
+   "credit_id": "5e9903c40582240015af605d",
+   "order": 4
+  },
+  {
+   "adult": false,
+   "backdrop_path": null,
+   "genre_ids": [
+    35
+   ],
+   "id": 207040,
+   "title": "The First Three Lives of Stuart Hornsley",
+   "original_language": "en",
+   "original_title": "The First Three Lives of Stuart Hornsley",
+   "overview": "Stuart Hornsley discovers a way to travel through time. His mission: to right what was wrong with his true love at the one moment where he can change his destiny.",
+   "popularity": 0.5788,
+   "poster_path": null,
+   "release_date": "2004-01-01",
+   "softcore": false,
+   "video": false,
+   "vote_average": 9.0,
+   "vote_count": 2,
+   "character": "Mrs. Grigoryev",
+   "credit_id": "67e464032580eef1e8001889",
+   "order": 1
+  },
+  {
+   "adult": false,
+   "backdrop_path": null,
+   "genre_ids": [
+    18
+   ],
+   "id": 1575317,
+   "title": "Rising Above",
+   "original_language": "en",
+   "original_title": "Rising Above",
+   "overview": "Jesse, a teen aged heroin addict, is mandated to a residential rehabilitation house with an ultimatum: get clean, or end up in jail.",
+   "popularity": 0.7506,
+   "poster_path": null,
+   "release_date": "2010-01-01",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "Chloe",
+   "credit_id": "690b892909b9c809004bd19b",
+   "order": 8
+  }
+ ],
+ "crew": [],
+ "id": 120891
+}

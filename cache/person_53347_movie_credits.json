@@ -1,0 +1,105 @@
+{
+ "cast": [
+  {
+   "adult": false,
+   "backdrop_path": "/luOLydz3H319kUl79MbBcfGsCgz.jpg",
+   "genre_ids": [
+    35,
+    12,
+    28
+   ],
+   "id": 6519,
+   "title": "The Dukes of Hazzard",
+   "original_language": "en",
+   "original_title": "The Dukes of Hazzard",
+   "overview": "Cousins, Bo and Luke Duke, with the help of their eye-catching cousin, Daisy and moonshine-running Uncle Jesse, try and save the family farm from being destroyed by Hazzard County's corrupt commissioner, Boss Hogg. Their efforts constantly find the 'Duke Boys' eluding authorities in 'The General Lee', their 1969 orange Dodge Charger that keeps them one step ahead of the dimwitted antics of the small southern town's Sheriff, Roscoe P. Coltrane.",
+   "popularity": 4.3018,
+   "poster_path": "/2ZrNyYJEgE0VIqhelQPqFTR20xF.jpg",
+   "release_date": "2005-08-05",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.624,
+   "vote_count": 1370,
+   "character": "Dil Driscoll",
+   "credit_id": "52fe4457c3a36847f809061f",
+   "order": 15
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/vBDHS8bdo5vzqaaqviMupznoRaN.jpg",
+   "genre_ids": [
+    28,
+    12,
+    80,
+    53
+   ],
+   "id": 11679,
+   "title": "xXx: State of the Union",
+   "original_language": "en",
+   "original_title": "xXx: State of the Union",
+   "overview": "Darius Stone's criminal record and extreme sports obsession make him the perfect candidate to be the newest XXX agent. He must save the U.S. government from a deadly conspiracy led by five-star general and Secretary of Defense George Deckert.",
+   "popularity": 7.503,
+   "poster_path": "/nL9J0N3HJSdZTKRsd5xcE6IzL5s.jpg",
+   "release_date": "2005-04-27",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.102,
+   "vote_count": 2123,
+   "character": "Toby Lee Shavers",
+   "credit_id": "52fe44779251416c75035cdb",
+   "order": 6
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
+   "genre_ids": [
+    28,
+    12,
+    53,
+    80,
+    18
+   ],
+   "id": 7451,
+   "title": "xXx",
+   "original_language": "en",
+   "original_title": "xXx",
+   "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+   "popularity": 15.6985,
+   "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+   "release_date": "2002-08-09",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.989,
+   "vote_count": 5086,
+   "character": "Agent Toby Lee Shavers",
+   "credit_id": "52fe447ec3a36847f8099519",
+   "order": 4
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+   "genre_ids": [
+    28,
+    10752,
+    36
+   ],
+   "id": 855,
+   "title": "Black Hawk Down",
+   "original_language": "en",
+   "original_title": "Black Hawk Down",
+   "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+   "popularity": 14.648,
+   "poster_path": "/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+   "release_date": "2001-12-28",
+   "softcore": false,
+   "video": false,
+   "vote_average": 7.407,
+   "vote_count": 6705,
+   "character": "Maddox",
+   "credit_id": "6677eed221696f7604ce96a6",
+   "order": 35
+  }
+ ],
+ "crew": [],
+ "id": 53347
+}

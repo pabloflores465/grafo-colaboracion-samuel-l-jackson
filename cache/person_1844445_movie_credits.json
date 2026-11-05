@@ -1,0 +1,191 @@
+{
+ "cast": [
+  {
+   "adult": false,
+   "backdrop_path": "/zn9L95QlNuaz1lf8r1ZNzv0pHEH.jpg",
+   "genre_ids": [
+    27,
+    36,
+    10752
+   ],
+   "id": 979329,
+   "title": "Swept Under",
+   "original_language": "en",
+   "original_title": "Swept Under",
+   "overview": "After receiving a housewarming rug from his sister, a Cambodian adoptee discovers a dark history hidden underneath its surface.",
+   "popularity": 2.2435,
+   "poster_path": "/6EyEQhl5hCjqc6mM0Bqe96APWcM.jpg",
+   "release_date": "2022-06-04",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.5,
+   "vote_count": 4,
+   "character": "The Neighbor",
+   "credit_id": "628e7693df86a8331b882c9a",
+   "order": 2
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg",
+   "genre_ids": [
+    37,
+    12,
+    80
+   ],
+   "id": 1195518,
+   "title": "The Unholy Trinity",
+   "original_language": "en",
+   "original_title": "The Unholy Trinity",
+   "overview": "Set against the turbulent backdrop of 1870s Montana, in the moments before the execution of Isaac Broadway, he gives his estranged son, Henry, an impossible task: murder the man who framed him for a crime he didn’t commit. Intent on fulfilling his promise, Henry travels to the remote town of Trinity, where an unexpected turn of events traps him in town and leaves him caught between Gabriel Dove, the town’s upstanding new sheriff, and a mysterious figure named St. Christopher.",
+   "popularity": 3.9204,
+   "poster_path": "/gXYYIX5VesrDtR1iYJfvUnJBPLB.jpg",
+   "release_date": "2025-06-13",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.3,
+   "vote_count": 244,
+   "character": "Henry Broadway",
+   "credit_id": "653788067fcab300c9864681",
+   "order": 2
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/q1CV9deBJHDUljhJFIxqyH1bWiW.jpg",
+   "genre_ids": [
+    18
+   ],
+   "id": 464559,
+   "title": "Broken Ghost",
+   "original_language": "en",
+   "original_title": "Broken Ghost",
+   "overview": "On the face of it, they’re just another family moving to the wide open spaces of the Big Sky Country for a tree change. But for teenage Imogen Day and her parents Samantha and Will, the move to Montana is an escape from quite a unique kind of bullying. Desperate to make a new life for herself, Imogen must overcome new tormentors, old secrets, and a strange presence in the attic.",
+   "popularity": 0.9103,
+   "poster_path": "/kJwSn6hOFQJrx4vkdyxQCKvZuCf.jpg",
+   "release_date": "2017-09-01",
+   "softcore": false,
+   "video": false,
+   "vote_average": 4.4,
+   "vote_count": 17,
+   "character": "Eugene",
+   "credit_id": "595b54b3c3a36825e804ca3c",
+   "order": 8
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/5H498rDX5OCMnaXFEU3cWRQTWL3.jpg",
+   "genre_ids": [
+    18,
+    36
+   ],
+   "id": 532812,
+   "title": "Robert the Bruce",
+   "original_language": "en",
+   "original_title": "Robert the Bruce",
+   "overview": "In 1306, Scottish King Robert the Bruce turns a defeated outlaw when his country is invaded. But before to free his sacred land, he must manage to regain his will to fight back and survive the persecution of those who want take his head and the English gold.",
+   "popularity": 2.8234,
+   "poster_path": "/e6eNN4EpGtbXAbsR97QgjnjHs6s.jpg",
+   "release_date": "2019-06-28",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.5,
+   "vote_count": 143,
+   "character": "Carney",
+   "credit_id": "5dcb0dac79a1c3001342b9cf",
+   "order": 5
+  },
+  {
+   "adult": false,
+   "backdrop_path": null,
+   "genre_ids": [
+    10749,
+    35
+   ],
+   "id": 747591,
+   "title": "The First Snow",
+   "original_language": "en",
+   "original_title": "The First Snow",
+   "overview": "Sometimes it takes a couple awkward moments, a difficult self-confession, and a touch of magic in the air for love to finally feel right.",
+   "popularity": 0.2278,
+   "poster_path": "/lMQGVpt5Q6q4b4K4R13obzCJ7gw.jpg",
+   "release_date": "2020-09-24",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "Philip (voice)",
+   "credit_id": "5f7171f7d55e4d00367b9f3e",
+   "order": 7
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/iNQlnhPFmJtrXeRa5Wm4QtQpyvS.jpg",
+   "genre_ids": [
+    28,
+    53
+   ],
+   "id": 1124641,
+   "title": "Classified",
+   "original_language": "en",
+   "original_title": "Classified",
+   "overview": "Operating alone in the field for more than 20 years, a CIA hitman uses the \"Help Wanted\" section of the newspapers to get his orders from the Agency. His long-lost daughter, now a UK MI6 analyst, tracks him down to deliver shocking news: his CIA boss has been dead for years and the division long since shut down. Together, they set out to discover whose orders he's been executing.",
+   "popularity": 2.8018,
+   "poster_path": "/o5zHDxx9aGtg0bK9gVghik8ohYb.jpg",
+   "release_date": "2024-09-19",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.56,
+   "vote_count": 218,
+   "character": "Butler",
+   "credit_id": "66dde76f182114ed643aba89",
+   "order": 11
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/cWf72N4Tua5zBgRNblC8T1ITEJY.jpg",
+   "genre_ids": [
+    27,
+    53
+   ],
+   "id": 1592395,
+   "title": "The Plantation",
+   "original_language": "en",
+   "original_title": "The Plantation",
+   "overview": "An interracial couple takes a backpacking trip deep into the remote Louisiana swamps where they encounter sinister forces at an old plantation hellbent on turning the past into the present.",
+   "popularity": 1.9978,
+   "poster_path": "/qy0x02q2kZ5pttb7YnA03y6jWma.jpg",
+   "release_date": "2025-12-19",
+   "softcore": false,
+   "video": false,
+   "vote_average": 2.5,
+   "vote_count": 2,
+   "character": "",
+   "credit_id": "6930887d493bfb433c90bb6f",
+   "order": 1
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/lzJSLBDZhXGZBqbaqeH5kzi4UzA.jpg",
+   "genre_ids": [
+    37,
+    18
+   ],
+   "id": 1652263,
+   "title": "Death on the Dearborn",
+   "original_language": "en",
+   "original_title": "Death on the Dearborn",
+   "overview": "",
+   "popularity": 1.4085,
+   "poster_path": "/mpucNL500UXxYMAhFrpvOtL2Lbv.jpg",
+   "release_date": "",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "Sam Foster",
+   "credit_id": "69b6b5a04aed7296315c9c3b",
+   "order": 6
+  }
+ ],
+ "crew": [],
+ "id": 1844445
+}

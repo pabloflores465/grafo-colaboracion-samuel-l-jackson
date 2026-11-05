@@ -1,0 +1,34 @@
+{
+ "id": 1071653,
+ "cast": [
+  {
+   "adult": false,
+   "gender": 2,
+   "id": 2231,
+   "known_for_department": "Acting",
+   "name": "Samuel L. Jackson",
+   "original_name": "Samuel L. Jackson",
+   "popularity": 6.8675,
+   "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg",
+   "cast_id": 1,
+   "character": "Narrator (voice)",
+   "credit_id": "63bb96d7fc31d3008bce98de",
+   "order": 0
+  }
+ ],
+ "crew": [
+  {
+   "adult": false,
+   "gender": 0,
+   "id": 1480533,
+   "known_for_department": "Writing",
+   "name": "Adam Mansbach",
+   "original_name": "Adam Mansbach",
+   "popularity": 0.2345,
+   "profile_path": null,
+   "credit_id": "647ba95193828e00dcdcd069",
+   "department": "Writing",
+   "job": "Author"
+  }
+ ]
+}

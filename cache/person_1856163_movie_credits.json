@@ -1,0 +1,218 @@
+{
+ "cast": [
+  {
+   "adult": false,
+   "backdrop_path": "/4FrEYi7T0JUdx3cRor3m4u6q4ad.jpg",
+   "genre_ids": [
+    18,
+    35
+   ],
+   "id": 793992,
+   "title": "Three Months",
+   "original_language": "en",
+   "original_title": "Three Months",
+   "overview": "Caleb, a South Florida teen, loves his camera, his weed and his grandmother. On the eve of his high school graduation, everything changes when he's exposed to HIV. While he waits three months for his results, Caleb finds love in the most unlikely of places.",
+   "popularity": 1.105,
+   "poster_path": "/eTD5TXjNbQ9c0BawMquBCO667yE.jpg",
+   "release_date": "2022-02-23",
+   "softcore": false,
+   "video": false,
+   "vote_average": 7.076,
+   "vote_count": 79,
+   "character": "Henry",
+   "credit_id": "601e0088c1606a003fc45e32",
+   "order": 9
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/3ciAiEBD4yxZYoXMxEnZF6Q0u58.jpg",
+   "genre_ids": [
+    18
+   ],
+   "id": 627725,
+   "title": "The Banker",
+   "original_language": "en",
+   "original_title": "The Banker",
+   "overview": "In the 1960s, two entrepreneurs hatch an ingenious business plan to fight for housing integration—and equal access to the American Dream.",
+   "popularity": 5.3424,
+   "poster_path": "/biXzsw22U6vSd0XktmZwAOc4uik.jpg",
+   "release_date": "2020-03-06",
+   "softcore": false,
+   "video": false,
+   "vote_average": 7.643,
+   "vote_count": 1175,
+   "character": "Robert Florance, Jr.",
+   "credit_id": "67db168108cb5eb727e77f97",
+   "order": 4
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/QPgXTvlCV0uDotp31pcrqPw2Cl.jpg",
+   "genre_ids": [
+    878,
+    9648
+   ],
+   "id": 1368983,
+   "title": "A.L.E.C.",
+   "original_language": "en",
+   "original_title": "A.L.E.C.",
+   "overview": "In the not-too-distant future, a reclusive writer becomes haunted by the strange behavior of her new synthetic companion.",
+   "popularity": 0.7769,
+   "poster_path": "/c0nHEoREmaHwGEdxWCGyb4sjkqW.jpg",
+   "release_date": "2024-09-27",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "David Randle",
+   "credit_id": "67db16940d339bb7147f7916",
+   "order": 2
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/4FnbeuCnsN3MT6omPrivl2ttJ8o.jpg",
+   "genre_ids": [
+    18,
+    10752,
+    36
+   ],
+   "id": 1061699,
+   "title": "The Six Triple Eight",
+   "original_language": "en",
+   "original_title": "The Six Triple Eight",
+   "overview": "During World War II, the US Army's only all-Black, all-women battalion takes on an impossible mission: sorting through a three-year backlog of 17 million pieces of mail that hadn't been delivered to American soldiers and finish within six months.",
+   "popularity": 4.8823,
+   "poster_path": "/7tvAnzZj9e9AjdoHaN9jshm2Cjw.jpg",
+   "release_date": "2024-12-06",
+   "softcore": false,
+   "video": false,
+   "vote_average": 7.602,
+   "vote_count": 752,
+   "character": "General Lee",
+   "credit_id": "67db16a89f358f4a137f79d1",
+   "order": 19
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/2BKk74sGbuwjKFUi9xPJYae7fvv.jpg",
+   "genre_ids": [
+    10749,
+    878
+   ],
+   "id": 1556978,
+   "title": "Alex & MOR: A Love Odyssey",
+   "original_language": "en",
+   "original_title": "Alex & MOR: A Love Odyssey",
+   "overview": "A couple seeks to reunite through space and time, as one relives the first day they met, and the other wakes up in the desert without memory of their relationship.",
+   "popularity": 1.7204,
+   "poster_path": "/ee1hXEeCY8EuU9lcUAzzDAepRey.jpg",
+   "release_date": "2026-04-10",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "Dr. Callis",
+   "credit_id": "68e11ae0f5265ffc28bd8d41",
+   "order": 5
+  }
+ ],
+ "crew": [
+  {
+   "adult": false,
+   "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+   "genre_ids": [
+    28,
+    12,
+    878
+   ],
+   "id": 284054,
+   "title": "Black Panther",
+   "original_language": "en",
+   "original_title": "Black Panther",
+   "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+   "popularity": 18.9474,
+   "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+   "release_date": "2018-02-13",
+   "softcore": false,
+   "video": false,
+   "vote_average": 7.36,
+   "vote_count": 24193,
+   "credit_id": "59735b17c3a3686fc7057588",
+   "department": "Art",
+   "job": "Set Dresser"
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/iYdgEUE2W2aJkgqfSjf1x3gFfuV.jpg",
+   "genre_ids": [
+    28,
+    12,
+    878
+   ],
+   "id": 363088,
+   "title": "Ant-Man and the Wasp",
+   "original_language": "en",
+   "original_title": "Ant-Man and the Wasp",
+   "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+   "popularity": 15.2307,
+   "poster_path": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+   "release_date": "2018-07-04",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.893,
+   "vote_count": 14667,
+   "credit_id": "5b5653c5c3a3685c91024184",
+   "department": "Art",
+   "job": "Set Dresser"
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+   "genre_ids": [
+    18,
+    10749,
+    878
+   ],
+   "id": 274870,
+   "title": "Passengers",
+   "original_language": "en",
+   "original_title": "Passengers",
+   "overview": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+   "popularity": 10.6518,
+   "poster_path": "/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
+   "release_date": "2016-12-21",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.956,
+   "vote_count": 14654,
+   "credit_id": "5bbf4b730e0a26235f010e0e",
+   "department": "Costume & Make-Up",
+   "job": "On Set Dresser"
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/1DHbZ1XRvdeXbD2P7W1OJbxqN9b.jpg",
+   "genre_ids": [
+    878,
+    18,
+    14
+   ],
+   "id": 592831,
+   "title": "Megalopolis",
+   "original_language": "en",
+   "original_title": "Megalopolis",
+   "overview": "In a futuristic New York known as New Rome, visionary architect Cesar Catilina dreams of building \"Megalopolis,\" a utopian city that redefines society’s limits. Opposing him is the corrupt Mayor Franklyn Cicero, who clings to power and profit. Between them stands Julia, the mayor’s daughter, whose love for Cesar forces her to choose between loyalty, ambition, and the fate of humanity.",
+   "popularity": 4.8588,
+   "poster_path": "/doVWgLdNyK36nEyyZgVsEWFCO1e.jpg",
+   "release_date": "2024-09-25",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.136,
+   "vote_count": 1088,
+   "credit_id": "673c2ce73555417913b13cf4",
+   "department": "Costume & Make-Up",
+   "job": "On Set Dresser"
+  }
+ ],
+ "id": 1856163
+}

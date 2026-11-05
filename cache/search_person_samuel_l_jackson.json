@@ -1,0 +1,85 @@
+{
+ "page": 1,
+ "results": [
+  {
+   "adult": false,
+   "gender": 2,
+   "id": 2231,
+   "known_for_department": "Acting",
+   "name": "Samuel L. Jackson",
+   "original_name": "Samuel L. Jackson",
+   "popularity": 6.8675,
+   "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg",
+   "known_for": [
+    {
+     "adult": false,
+     "backdrop_path": "/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg",
+     "id": 273248,
+     "title": "The Hateful Eight",
+     "original_title": "The Hateful Eight",
+     "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+     "poster_path": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+     "media_type": "movie",
+     "original_language": "en",
+     "genre_ids": [
+      18,
+      9648,
+      37
+     ],
+     "popularity": 13.6702,
+     "release_date": "2015-12-25",
+     "softcore": false,
+     "video": false,
+     "vote_average": 7.756,
+     "vote_count": 15785
+    },
+    {
+     "adult": false,
+     "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+     "id": 680,
+     "title": "Pulp Fiction",
+     "original_title": "Pulp Fiction",
+     "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+     "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+     "media_type": "movie",
+     "original_language": "en",
+     "genre_ids": [
+      53,
+      80,
+      35
+     ],
+     "popularity": 33.5022,
+     "release_date": "1994-09-10",
+     "softcore": false,
+     "video": false,
+     "vote_average": 8.48,
+     "vote_count": 31251
+    },
+    {
+     "adult": false,
+     "backdrop_path": "/jJvrPQAHFKmz4pVano4UtWTsRgA.jpg",
+     "id": 100402,
+     "title": "Captain America: The Winter Soldier",
+     "original_title": "Captain America: The Winter Soldier",
+     "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier.",
+     "poster_path": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+     "media_type": "movie",
+     "original_language": "en",
+     "genre_ids": [
+      28,
+      12,
+      878
+     ],
+     "popularity": 16.5556,
+     "release_date": "2014-03-20",
+     "softcore": false,
+     "video": false,
+     "vote_average": 7.654,
+     "vote_count": 20690
+    }
+   ]
+  }
+ ],
+ "total_pages": 1,
+ "total_results": 1
+}
