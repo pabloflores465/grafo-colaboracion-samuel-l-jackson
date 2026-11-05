@@ -14,6 +14,7 @@ $A = BB^\top$ fuera de la diagonal, el puente con el kernel del *random forest* 
 | `tmdb_utils.py` | Clase `TMDBAPIUtils` con cache en JSON |
 | `cache/` | Respuestas del API; el notebook corre sin API key |
 | `figuras/grafo.png` | Figura del grafo |
+| `presentacion/` | Diapositivas (`presentacion.pdf` y `.pptx`) con fórmulas y resultados |
 
 ## Correr
 
